@@ -1,0 +1,20 @@
+h1,
+h2,
+h3{
+    text-wrap: balance;
+}
+
+body{
+    background-color: rosybrown;
+}
+
+p{
+    text-wrap: pre;
+}
+
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
